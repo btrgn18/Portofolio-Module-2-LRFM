@@ -41,3 +41,12 @@
   - Identification of loyal, at-risk, and high-value customers.
   - Targeted marketing strategies and campaign personalization.
   - Designing retention and loyalty programs based on customer value.
+
+# **Data Source**
+Data Analysis Superstore
+> https://console.cloud.google.com/bigquery?invt=Abuvbw&orgonly=true&project=jcds-2804-022&supportedpurview=organizationId,folder,project&ws=!1m5!1m4!4m3!1sjcds-2804-022!2ssuperstore_dataset!3sSample_Superstore_Clean
+
+Data LRFM Anlysis
+> https://console.cloud.google.com/bigquery?invt=Abuvbw&orgonly=true&project=jcds-2804-022&supportedpurview=organizationId,folder,project&ws=!1m5!1m4!4m3!1sjcds-2804-022!2ssuperstore_dataset!3sSuperstore_LRFM_Segmented
+
+
