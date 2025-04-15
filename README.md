@@ -50,4 +50,4 @@ Data LRFM Anlysis
 > https://console.cloud.google.com/bigquery?invt=Abuvbw&orgonly=true&project=jcds-2804-022&supportedpurview=organizationId,folder,project&ws=!1m5!1m4!4m3!1sjcds-2804-022!2ssuperstore_dataset!3sSuperstore_LRFM_Segmented
 
 # **Dashboard Looker Studio**
-https://lookerstudio.google.com/reporting/8c719abe-8532-47a1-bec6-4b411a7dcfd4
+> https://lookerstudio.google.com/reporting/8c719abe-8532-47a1-bec6-4b411a7dcfd4
