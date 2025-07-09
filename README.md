@@ -1,4 +1,4 @@
-# Superstore LRFM Analysis
+# Customer Segmentation with LRFM Analysis
 >`AIMAR MOHAMMAD BUTRAGUENO` - `JCDS 2804`
 
 # **Dataset Overview**
